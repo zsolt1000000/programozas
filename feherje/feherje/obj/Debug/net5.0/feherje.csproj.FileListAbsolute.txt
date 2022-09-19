@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\feherje\feherje\bin\Debug\net5.0\feherje.exe
+C:\Users\harco\source\repos\feherje\feherje\bin\Debug\net5.0\feherje.deps.json
+C:\Users\harco\source\repos\feherje\feherje\bin\Debug\net5.0\feherje.runtimeconfig.json
+C:\Users\harco\source\repos\feherje\feherje\bin\Debug\net5.0\feherje.runtimeconfig.dev.json
+C:\Users\harco\source\repos\feherje\feherje\bin\Debug\net5.0\feherje.dll
+C:\Users\harco\source\repos\feherje\feherje\bin\Debug\net5.0\ref\feherje.dll
+C:\Users\harco\source\repos\feherje\feherje\bin\Debug\net5.0\feherje.pdb
+C:\Users\harco\source\repos\feherje\feherje\obj\Debug\net5.0\feherje.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\feherje\feherje\obj\Debug\net5.0\feherje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\feherje\feherje\obj\Debug\net5.0\feherje.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\feherje\feherje\obj\Debug\net5.0\feherje.AssemblyInfo.cs
+C:\Users\harco\source\repos\feherje\feherje\obj\Debug\net5.0\feherje.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\feherje\feherje\obj\Debug\net5.0\feherje.dll
+C:\Users\harco\source\repos\feherje\feherje\obj\Debug\net5.0\ref\feherje.dll
+C:\Users\harco\source\repos\feherje\feherje\obj\Debug\net5.0\feherje.pdb
+C:\Users\harco\source\repos\feherje\feherje\obj\Debug\net5.0\feherje.genruntimeconfig.cache

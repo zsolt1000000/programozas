@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tombola", "Tombola\Tombola.csproj", "{96894D8E-765D-47EC-9044-670FAFF5E355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96894D8E-765D-47EC-9044-670FAFF5E355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96894D8E-765D-47EC-9044-670FAFF5E355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96894D8E-765D-47EC-9044-670FAFF5E355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96894D8E-765D-47EC-9044-670FAFF5E355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E588F58-4E19-4191-A849-57AA4CF479C2}
+	EndGlobalSection
+EndGlobal

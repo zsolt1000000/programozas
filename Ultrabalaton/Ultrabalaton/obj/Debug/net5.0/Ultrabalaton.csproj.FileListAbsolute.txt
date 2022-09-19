@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\bin\Debug\net5.0\Ultrabalaton.exe
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\bin\Debug\net5.0\Ultrabalaton.deps.json
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\bin\Debug\net5.0\Ultrabalaton.runtimeconfig.json
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\bin\Debug\net5.0\Ultrabalaton.runtimeconfig.dev.json
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\bin\Debug\net5.0\Ultrabalaton.dll
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\bin\Debug\net5.0\ref\Ultrabalaton.dll
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\bin\Debug\net5.0\Ultrabalaton.pdb
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\obj\Debug\net5.0\Ultrabalaton.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\obj\Debug\net5.0\Ultrabalaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\obj\Debug\net5.0\Ultrabalaton.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\obj\Debug\net5.0\Ultrabalaton.AssemblyInfo.cs
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\obj\Debug\net5.0\Ultrabalaton.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\obj\Debug\net5.0\Ultrabalaton.dll
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\obj\Debug\net5.0\ref\Ultrabalaton.dll
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\obj\Debug\net5.0\Ultrabalaton.pdb
+C:\Users\harco\source\repos\Ultrabalaton\Ultrabalaton\obj\Debug\net5.0\Ultrabalaton.genruntimeconfig.cache

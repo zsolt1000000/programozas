@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\jatszma5\jatszma5\bin\Debug\net5.0\jatszma5.exe
+C:\Users\harco\source\repos\jatszma5\jatszma5\bin\Debug\net5.0\jatszma5.deps.json
+C:\Users\harco\source\repos\jatszma5\jatszma5\bin\Debug\net5.0\jatszma5.runtimeconfig.json
+C:\Users\harco\source\repos\jatszma5\jatszma5\bin\Debug\net5.0\jatszma5.runtimeconfig.dev.json
+C:\Users\harco\source\repos\jatszma5\jatszma5\bin\Debug\net5.0\jatszma5.dll
+C:\Users\harco\source\repos\jatszma5\jatszma5\bin\Debug\net5.0\ref\jatszma5.dll
+C:\Users\harco\source\repos\jatszma5\jatszma5\bin\Debug\net5.0\jatszma5.pdb
+C:\Users\harco\source\repos\jatszma5\jatszma5\obj\Debug\net5.0\jatszma5.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\jatszma5\jatszma5\obj\Debug\net5.0\jatszma5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\jatszma5\jatszma5\obj\Debug\net5.0\jatszma5.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\jatszma5\jatszma5\obj\Debug\net5.0\jatszma5.AssemblyInfo.cs
+C:\Users\harco\source\repos\jatszma5\jatszma5\obj\Debug\net5.0\jatszma5.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\jatszma5\jatszma5\obj\Debug\net5.0\jatszma5.dll
+C:\Users\harco\source\repos\jatszma5\jatszma5\obj\Debug\net5.0\ref\jatszma5.dll
+C:\Users\harco\source\repos\jatszma5\jatszma5\obj\Debug\net5.0\jatszma5.pdb
+C:\Users\harco\source\repos\jatszma5\jatszma5\obj\Debug\net5.0\jatszma5.genruntimeconfig.cache

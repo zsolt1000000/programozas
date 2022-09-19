@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\bin\Debug\net5.0\KeszhelySprint.exe
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\bin\Debug\net5.0\KeszhelySprint.deps.json
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\bin\Debug\net5.0\KeszhelySprint.runtimeconfig.json
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\bin\Debug\net5.0\KeszhelySprint.runtimeconfig.dev.json
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\bin\Debug\net5.0\KeszhelySprint.dll
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\bin\Debug\net5.0\ref\KeszhelySprint.dll
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\bin\Debug\net5.0\KeszhelySprint.pdb
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\obj\Debug\net5.0\KeszhelySprint.csproj.AssemblyReference.cache
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\obj\Debug\net5.0\KeszhelySprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\obj\Debug\net5.0\KeszhelySprint.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\obj\Debug\net5.0\KeszhelySprint.AssemblyInfo.cs
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\obj\Debug\net5.0\KeszhelySprint.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\obj\Debug\net5.0\KeszhelySprint.dll
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\obj\Debug\net5.0\ref\KeszhelySprint.dll
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\obj\Debug\net5.0\KeszhelySprint.pdb
+C:\Users\harco\source\repos\KeszhelySprint\KeszhelySprint\obj\Debug\net5.0\KeszhelySprint.genruntimeconfig.cache

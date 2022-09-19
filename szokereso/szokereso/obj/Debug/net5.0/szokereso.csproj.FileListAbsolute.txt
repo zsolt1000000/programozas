@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\szokereso\szokereso\bin\Debug\net5.0\szokereso.exe
+C:\Users\harco\source\repos\szokereso\szokereso\bin\Debug\net5.0\szokereso.deps.json
+C:\Users\harco\source\repos\szokereso\szokereso\bin\Debug\net5.0\szokereso.runtimeconfig.json
+C:\Users\harco\source\repos\szokereso\szokereso\bin\Debug\net5.0\szokereso.runtimeconfig.dev.json
+C:\Users\harco\source\repos\szokereso\szokereso\bin\Debug\net5.0\szokereso.dll
+C:\Users\harco\source\repos\szokereso\szokereso\bin\Debug\net5.0\ref\szokereso.dll
+C:\Users\harco\source\repos\szokereso\szokereso\bin\Debug\net5.0\szokereso.pdb
+C:\Users\harco\source\repos\szokereso\szokereso\obj\Debug\net5.0\szokereso.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\szokereso\szokereso\obj\Debug\net5.0\szokereso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\szokereso\szokereso\obj\Debug\net5.0\szokereso.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\szokereso\szokereso\obj\Debug\net5.0\szokereso.AssemblyInfo.cs
+C:\Users\harco\source\repos\szokereso\szokereso\obj\Debug\net5.0\szokereso.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\szokereso\szokereso\obj\Debug\net5.0\szokereso.dll
+C:\Users\harco\source\repos\szokereso\szokereso\obj\Debug\net5.0\ref\szokereso.dll
+C:\Users\harco\source\repos\szokereso\szokereso\obj\Debug\net5.0\szokereso.pdb
+C:\Users\harco\source\repos\szokereso\szokereso\obj\Debug\net5.0\szokereso.genruntimeconfig.cache

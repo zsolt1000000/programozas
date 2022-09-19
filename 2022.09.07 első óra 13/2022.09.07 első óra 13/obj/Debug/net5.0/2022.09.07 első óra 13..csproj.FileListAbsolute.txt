@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\bin\Debug\net5.0\2022.09.07 első óra 13..exe
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\bin\Debug\net5.0\2022.09.07 első óra 13..deps.json
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\bin\Debug\net5.0\2022.09.07 első óra 13..runtimeconfig.json
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\bin\Debug\net5.0\2022.09.07 első óra 13..runtimeconfig.dev.json
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\bin\Debug\net5.0\2022.09.07 első óra 13..dll
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\bin\Debug\net5.0\ref\2022.09.07 első óra 13..dll
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\bin\Debug\net5.0\2022.09.07 első óra 13..pdb
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\obj\Debug\net5.0\2022.09.07 első óra 13..csproj.AssemblyReference.cache
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\obj\Debug\net5.0\2022.09.07 első óra 13..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\obj\Debug\net5.0\2022.09.07 első óra 13..AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\obj\Debug\net5.0\2022.09.07 első óra 13..AssemblyInfo.cs
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\obj\Debug\net5.0\2022.09.07 első óra 13..csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\obj\Debug\net5.0\2022.09.07 első óra 13..dll
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\obj\Debug\net5.0\ref\2022.09.07 első óra 13..dll
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\obj\Debug\net5.0\2022.09.07 első óra 13..pdb
+C:\Users\harco\source\repos\2022.09.07 első óra 13\2022.09.07 első óra 13\obj\Debug\net5.0\2022.09.07 első óra 13..genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\szinkep1\szinkep1\bin\Debug\net5.0\szinkep1.exe
+C:\Users\harco\source\repos\szinkep1\szinkep1\bin\Debug\net5.0\szinkep1.deps.json
+C:\Users\harco\source\repos\szinkep1\szinkep1\bin\Debug\net5.0\szinkep1.runtimeconfig.json
+C:\Users\harco\source\repos\szinkep1\szinkep1\bin\Debug\net5.0\szinkep1.runtimeconfig.dev.json
+C:\Users\harco\source\repos\szinkep1\szinkep1\bin\Debug\net5.0\szinkep1.dll
+C:\Users\harco\source\repos\szinkep1\szinkep1\bin\Debug\net5.0\ref\szinkep1.dll
+C:\Users\harco\source\repos\szinkep1\szinkep1\bin\Debug\net5.0\szinkep1.pdb
+C:\Users\harco\source\repos\szinkep1\szinkep1\obj\Debug\net5.0\szinkep1.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\szinkep1\szinkep1\obj\Debug\net5.0\szinkep1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\szinkep1\szinkep1\obj\Debug\net5.0\szinkep1.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\szinkep1\szinkep1\obj\Debug\net5.0\szinkep1.AssemblyInfo.cs
+C:\Users\harco\source\repos\szinkep1\szinkep1\obj\Debug\net5.0\szinkep1.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\szinkep1\szinkep1\obj\Debug\net5.0\szinkep1.dll
+C:\Users\harco\source\repos\szinkep1\szinkep1\obj\Debug\net5.0\ref\szinkep1.dll
+C:\Users\harco\source\repos\szinkep1\szinkep1\obj\Debug\net5.0\szinkep1.pdb
+C:\Users\harco\source\repos\szinkep1\szinkep1\obj\Debug\net5.0\szinkep1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\bin\Debug\net5.0\fejvagyiras.exe
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\bin\Debug\net5.0\fejvagyiras.deps.json
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\bin\Debug\net5.0\fejvagyiras.runtimeconfig.json
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\bin\Debug\net5.0\fejvagyiras.runtimeconfig.dev.json
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\bin\Debug\net5.0\fejvagyiras.dll
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\bin\Debug\net5.0\ref\fejvagyiras.dll
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\bin\Debug\net5.0\fejvagyiras.pdb
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\obj\Debug\net5.0\fejvagyiras.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\obj\Debug\net5.0\fejvagyiras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\obj\Debug\net5.0\fejvagyiras.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\obj\Debug\net5.0\fejvagyiras.AssemblyInfo.cs
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\obj\Debug\net5.0\fejvagyiras.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\obj\Debug\net5.0\fejvagyiras.dll
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\obj\Debug\net5.0\ref\fejvagyiras.dll
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\obj\Debug\net5.0\fejvagyiras.pdb
+C:\Users\harco\source\repos\fejvagyiras\fejvagyiras\obj\Debug\net5.0\fejvagyiras.genruntimeconfig.cache

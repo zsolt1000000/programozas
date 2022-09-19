@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\valasztas\valasztas\bin\Debug\net5.0\valasztas.exe
+C:\Users\harco\source\repos\valasztas\valasztas\bin\Debug\net5.0\valasztas.deps.json
+C:\Users\harco\source\repos\valasztas\valasztas\bin\Debug\net5.0\valasztas.runtimeconfig.json
+C:\Users\harco\source\repos\valasztas\valasztas\bin\Debug\net5.0\valasztas.runtimeconfig.dev.json
+C:\Users\harco\source\repos\valasztas\valasztas\bin\Debug\net5.0\valasztas.dll
+C:\Users\harco\source\repos\valasztas\valasztas\bin\Debug\net5.0\ref\valasztas.dll
+C:\Users\harco\source\repos\valasztas\valasztas\bin\Debug\net5.0\valasztas.pdb
+C:\Users\harco\source\repos\valasztas\valasztas\obj\Debug\net5.0\valasztas.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\valasztas\valasztas\obj\Debug\net5.0\valasztas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\valasztas\valasztas\obj\Debug\net5.0\valasztas.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\valasztas\valasztas\obj\Debug\net5.0\valasztas.AssemblyInfo.cs
+C:\Users\harco\source\repos\valasztas\valasztas\obj\Debug\net5.0\valasztas.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\valasztas\valasztas\obj\Debug\net5.0\valasztas.dll
+C:\Users\harco\source\repos\valasztas\valasztas\obj\Debug\net5.0\ref\valasztas.dll
+C:\Users\harco\source\repos\valasztas\valasztas\obj\Debug\net5.0\valasztas.pdb
+C:\Users\harco\source\repos\valasztas\valasztas\obj\Debug\net5.0\valasztas.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\MyProyect\MyProyect\bin\Debug\net5.0\MyProyect.exe
+C:\Users\harco\source\repos\MyProyect\MyProyect\bin\Debug\net5.0\MyProyect.deps.json
+C:\Users\harco\source\repos\MyProyect\MyProyect\bin\Debug\net5.0\MyProyect.runtimeconfig.json
+C:\Users\harco\source\repos\MyProyect\MyProyect\bin\Debug\net5.0\MyProyect.runtimeconfig.dev.json
+C:\Users\harco\source\repos\MyProyect\MyProyect\bin\Debug\net5.0\MyProyect.dll
+C:\Users\harco\source\repos\MyProyect\MyProyect\bin\Debug\net5.0\ref\MyProyect.dll
+C:\Users\harco\source\repos\MyProyect\MyProyect\bin\Debug\net5.0\MyProyect.pdb
+C:\Users\harco\source\repos\MyProyect\MyProyect\obj\Debug\net5.0\MyProyect.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\MyProyect\MyProyect\obj\Debug\net5.0\MyProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\MyProyect\MyProyect\obj\Debug\net5.0\MyProyect.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\MyProyect\MyProyect\obj\Debug\net5.0\MyProyect.AssemblyInfo.cs
+C:\Users\harco\source\repos\MyProyect\MyProyect\obj\Debug\net5.0\MyProyect.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\MyProyect\MyProyect\obj\Debug\net5.0\MyProyect.dll
+C:\Users\harco\source\repos\MyProyect\MyProyect\obj\Debug\net5.0\ref\MyProyect.dll
+C:\Users\harco\source\repos\MyProyect\MyProyect\obj\Debug\net5.0\MyProyect.pdb
+C:\Users\harco\source\repos\MyProyect\MyProyect\obj\Debug\net5.0\MyProyect.genruntimeconfig.cache

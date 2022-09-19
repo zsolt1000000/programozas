@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\szamverseny\szamverseny\obj\Debug\net5.0\szamverseny.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\szamverseny\szamverseny\obj\Debug\net5.0\szamverseny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\szamverseny\szamverseny\obj\Debug\net5.0\szamverseny.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\szamverseny\szamverseny\obj\Debug\net5.0\szamverseny.AssemblyInfo.cs
+C:\Users\harco\source\repos\szamverseny\szamverseny\obj\Debug\net5.0\szamverseny.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\szamverseny\szamverseny\bin\Debug\net5.0\szamverseny.exe
+C:\Users\harco\source\repos\szamverseny\szamverseny\bin\Debug\net5.0\szamverseny.deps.json
+C:\Users\harco\source\repos\szamverseny\szamverseny\bin\Debug\net5.0\szamverseny.runtimeconfig.json
+C:\Users\harco\source\repos\szamverseny\szamverseny\bin\Debug\net5.0\szamverseny.runtimeconfig.dev.json
+C:\Users\harco\source\repos\szamverseny\szamverseny\bin\Debug\net5.0\szamverseny.dll
+C:\Users\harco\source\repos\szamverseny\szamverseny\bin\Debug\net5.0\ref\szamverseny.dll
+C:\Users\harco\source\repos\szamverseny\szamverseny\bin\Debug\net5.0\szamverseny.pdb
+C:\Users\harco\source\repos\szamverseny\szamverseny\obj\Debug\net5.0\szamverseny.dll
+C:\Users\harco\source\repos\szamverseny\szamverseny\obj\Debug\net5.0\ref\szamverseny.dll
+C:\Users\harco\source\repos\szamverseny\szamverseny\obj\Debug\net5.0\szamverseny.pdb
+C:\Users\harco\source\repos\szamverseny\szamverseny\obj\Debug\net5.0\szamverseny.genruntimeconfig.cache

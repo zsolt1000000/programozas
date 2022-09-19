@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\bin\Debug\net5.0\otszaz_2.exe
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\bin\Debug\net5.0\otszaz_2.deps.json
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\bin\Debug\net5.0\otszaz_2.runtimeconfig.json
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\bin\Debug\net5.0\otszaz_2.runtimeconfig.dev.json
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\bin\Debug\net5.0\otszaz_2.dll
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\bin\Debug\net5.0\ref\otszaz_2.dll
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\bin\Debug\net5.0\otszaz_2.pdb
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\obj\Debug\net5.0\otszaz_2.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\obj\Debug\net5.0\otszaz_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\obj\Debug\net5.0\otszaz_2.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\obj\Debug\net5.0\otszaz_2.AssemblyInfo.cs
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\obj\Debug\net5.0\otszaz_2.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\obj\Debug\net5.0\otszaz_2.dll
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\obj\Debug\net5.0\ref\otszaz_2.dll
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\obj\Debug\net5.0\otszaz_2.pdb
+C:\Users\harco\source\repos\otszaz_2\otszaz_2\obj\Debug\net5.0\otszaz_2.genruntimeconfig.cache

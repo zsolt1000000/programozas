@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\bin\Debug\net5.0\FIFAvilágranglísta.exe
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\bin\Debug\net5.0\FIFAvilágranglísta.deps.json
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\bin\Debug\net5.0\FIFAvilágranglísta.runtimeconfig.json
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\bin\Debug\net5.0\FIFAvilágranglísta.runtimeconfig.dev.json
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\bin\Debug\net5.0\FIFAvilágranglísta.dll
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\bin\Debug\net5.0\ref\FIFAvilágranglísta.dll
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\bin\Debug\net5.0\FIFAvilágranglísta.pdb
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\obj\Debug\net5.0\FIFAvilágranglísta.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\obj\Debug\net5.0\FIFAvilágranglísta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\obj\Debug\net5.0\FIFAvilágranglísta.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\obj\Debug\net5.0\FIFAvilágranglísta.AssemblyInfo.cs
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\obj\Debug\net5.0\FIFAvilágranglísta.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\obj\Debug\net5.0\FIFAvilágranglísta.dll
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\obj\Debug\net5.0\ref\FIFAvilágranglísta.dll
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\obj\Debug\net5.0\FIFAvilágranglísta.pdb
+C:\Users\harco\source\repos\FIFAvilágranglísta\FIFAvilágranglísta\obj\Debug\net5.0\FIFAvilágranglísta.genruntimeconfig.cache

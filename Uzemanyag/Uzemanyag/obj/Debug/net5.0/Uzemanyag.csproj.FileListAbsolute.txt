@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net5.0\Uzemanyag.exe
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net5.0\Uzemanyag.deps.json
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net5.0\Uzemanyag.runtimeconfig.json
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net5.0\Uzemanyag.runtimeconfig.dev.json
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net5.0\Uzemanyag.dll
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net5.0\ref\Uzemanyag.dll
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\bin\Debug\net5.0\Uzemanyag.pdb
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net5.0\Uzemanyag.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net5.0\Uzemanyag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net5.0\Uzemanyag.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net5.0\Uzemanyag.AssemblyInfo.cs
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net5.0\Uzemanyag.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net5.0\Uzemanyag.dll
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net5.0\ref\Uzemanyag.dll
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net5.0\Uzemanyag.pdb
+C:\Users\harco\source\repos\Uzemanyag\Uzemanyag\obj\Debug\net5.0\Uzemanyag.genruntimeconfig.cache

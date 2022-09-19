@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\robot\robot\bin\Debug\net5.0\robot.exe
+C:\Users\harco\source\repos\robot\robot\bin\Debug\net5.0\robot.deps.json
+C:\Users\harco\source\repos\robot\robot\bin\Debug\net5.0\robot.runtimeconfig.json
+C:\Users\harco\source\repos\robot\robot\bin\Debug\net5.0\robot.runtimeconfig.dev.json
+C:\Users\harco\source\repos\robot\robot\bin\Debug\net5.0\robot.dll
+C:\Users\harco\source\repos\robot\robot\bin\Debug\net5.0\ref\robot.dll
+C:\Users\harco\source\repos\robot\robot\bin\Debug\net5.0\robot.pdb
+C:\Users\harco\source\repos\robot\robot\obj\Debug\net5.0\robot.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\robot\robot\obj\Debug\net5.0\robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\robot\robot\obj\Debug\net5.0\robot.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\robot\robot\obj\Debug\net5.0\robot.AssemblyInfo.cs
+C:\Users\harco\source\repos\robot\robot\obj\Debug\net5.0\robot.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\robot\robot\obj\Debug\net5.0\robot.dll
+C:\Users\harco\source\repos\robot\robot\obj\Debug\net5.0\ref\robot.dll
+C:\Users\harco\source\repos\robot\robot\obj\Debug\net5.0\robot.pdb
+C:\Users\harco\source\repos\robot\robot\obj\Debug\net5.0\robot.genruntimeconfig.cache

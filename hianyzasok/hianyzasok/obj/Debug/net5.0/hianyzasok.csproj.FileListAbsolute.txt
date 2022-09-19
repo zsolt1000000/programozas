@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\bin\Debug\net5.0\hianyzasok.exe
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\bin\Debug\net5.0\hianyzasok.deps.json
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\bin\Debug\net5.0\hianyzasok.runtimeconfig.json
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\bin\Debug\net5.0\hianyzasok.runtimeconfig.dev.json
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\bin\Debug\net5.0\hianyzasok.dll
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\bin\Debug\net5.0\ref\hianyzasok.dll
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\bin\Debug\net5.0\hianyzasok.pdb
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\obj\Debug\net5.0\hianyzasok.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\obj\Debug\net5.0\hianyzasok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\obj\Debug\net5.0\hianyzasok.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\obj\Debug\net5.0\hianyzasok.AssemblyInfo.cs
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\obj\Debug\net5.0\hianyzasok.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\obj\Debug\net5.0\hianyzasok.dll
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\obj\Debug\net5.0\ref\hianyzasok.dll
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\obj\Debug\net5.0\hianyzasok.pdb
+C:\Users\harco\source\repos\hianyzasok\hianyzasok\obj\Debug\net5.0\hianyzasok.genruntimeconfig.cache

@@ -1,0 +1,68 @@
+﻿Név	A születés dátuma	Csillagjegye	Oscar-díjak száma		Oscar-díjak száma csillagjegyenként
+Adam Sandler	1966.09.09	szűz			bak
+Al Pacino	1940.04.25	bika	1		vízöntő
+Alec Baldwin	1958.04.03	kos			halak
+Angelina Jolie	1975.06.04	ikrek	1		kos
+Ashton Kutcher	1978.02.07	vízöntő			bika
+Ben Affleck	1972.08.15	oroszlán	2		ikrek
+Brad Pitt	1963.12.18	nyilas			rák
+Bruce Willis	1955.03.19	vízöntő			oroszlán
+Cameron Diaz	1972.08.30	szűz			szűz
+Cate Blanchett	1969.05.14	bika	1		mérleg
+Catherine Zeta-Jones	1969.09.25	mérleg	1		skorpió
+Charlie Sheen	1965.09.03	szűz			nyilas
+Daryl Hannah	1960.12.03	nyilas			
+Demi Moore	1962.11.11	skorpió			
+Denzel Washington	1954.12.28	bak	2		Oscar-díjasok száma:
+Drew Barrymore	1975.02.22	vízöntő			
+Dustin Hoffman	1937.08.08	oroszlán	2		
+Emma Watson	1990.04.15	kos			
+Eva Mendes	1974.03.05	halak			A legfiatalabb színész csillagjegye:
+Forest Whitaker	1961.07.15	rák	1		
+Gene Hackman	1930.01.30	vízöntő	2		
+George Clooney	1961.05.06	bika	1		
+Gwyneth Paltrow	1972.09.28	mérleg	1	
+Harrison Ford	1942.07.13	rák			
+Hugh Garnt	1960.09.09	szűz			
+Jack Nicholson	1937.04.22	bika	3		
+Jennifer Aniston	1969.02.11	vízöntő			
+Jennifer Garner	1972.04.17	kos			
+Jeremy Irons	1948.09.19	szűz			
+Jessica Alba	1981.04.28	bika			
+Jodie Foster	1962.11.19	skorpió	2		
+John Travolta	1954.02.18	vízöntő			
+Johnny Depp	1963.06.09	ikrek			
+Julia Roberts	1967.10.28	skorpió	1		
+Kate Winslet	1975.10.05	mérleg	1		
+Katie Holmes	1978.12.18	nyilas			
+Keanu Reeves	1964.09.02	szűz			
+Kevin Costner	1955.01.18	bak			
+Kevin Spacey	1959.07.26	oroszlán	2		
+Liv Tyler	1977.07.01	rák			
+Matthew McConaughey	1969.11.04	skorpió			
+Meg Ryan	1961.11.19	skorpió			
+Mel Gibson	1956.01.03	bak			
+Meryl Streep	1949.06.22	rák	2		
+Natalie Portman	1981.06.09	ikrek			
+Nicolas Cage	1964.01.07	bak	1		
+Nicole Kidman	1967.06.20	ikrek	1		
+Orlando Bloom	1977.01.13	bak			
+Reese Witherspoon	1976.03.22	kos			
+Renée Zellweger	1969.04.25	bika	1		
+Richard Gere	1949.08.29	szűz			
+Robert De Niro	1943.08.17	oroszlán	2		
+Robin Williams	1951.07.21	rák	1		
+Rowan Atkinson	1955.01.06	bak			
+Russel Crowe	1964.04.07	kos	1		
+Samuel L. Jackson	1948.12.21	nyilas			
+Sandra Bullock	1964.07.26	oroszlán			
+Sean Penn	1960.08.17	oroszlán	2		
+Sharon Stone	1958.03.10	vízöntő			
+Tom Cruise	1962.07.03	rák			
+Tom Hanks	1956.07.19	rák	2		
+Tommy Lee Jones	1946.09.15	szűz	1		
+Uma Thurman	1970.04.19	bika			
+Wesley Snipes	1962.07.31	oroszlán			
+Whoopi Goldberg	1955.11.13	skorpió	1		
+Will Smith	1968.09.25	mérleg			
+Winona Ryder	1971.10.29	skorpió

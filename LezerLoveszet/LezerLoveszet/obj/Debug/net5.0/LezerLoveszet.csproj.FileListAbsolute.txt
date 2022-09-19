@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\bin\Debug\net5.0\LezerLoveszet.exe
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\bin\Debug\net5.0\LezerLoveszet.deps.json
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\bin\Debug\net5.0\LezerLoveszet.runtimeconfig.json
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\bin\Debug\net5.0\LezerLoveszet.runtimeconfig.dev.json
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\bin\Debug\net5.0\LezerLoveszet.dll
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\bin\Debug\net5.0\ref\LezerLoveszet.dll
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\bin\Debug\net5.0\LezerLoveszet.pdb
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\obj\Debug\net5.0\LezerLoveszet.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\obj\Debug\net5.0\LezerLoveszet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\obj\Debug\net5.0\LezerLoveszet.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\obj\Debug\net5.0\LezerLoveszet.AssemblyInfo.cs
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\obj\Debug\net5.0\LezerLoveszet.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\obj\Debug\net5.0\LezerLoveszet.dll
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\obj\Debug\net5.0\ref\LezerLoveszet.dll
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\obj\Debug\net5.0\LezerLoveszet.pdb
+C:\Users\harco\source\repos\LezerLoveszet\LezerLoveszet\obj\Debug\net5.0\LezerLoveszet.genruntimeconfig.cache

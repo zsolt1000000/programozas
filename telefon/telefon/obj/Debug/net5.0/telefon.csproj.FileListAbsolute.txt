@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\telefon\telefon\bin\Debug\net5.0\telefon.exe
+C:\Users\harco\source\repos\telefon\telefon\bin\Debug\net5.0\telefon.deps.json
+C:\Users\harco\source\repos\telefon\telefon\bin\Debug\net5.0\telefon.runtimeconfig.json
+C:\Users\harco\source\repos\telefon\telefon\bin\Debug\net5.0\telefon.runtimeconfig.dev.json
+C:\Users\harco\source\repos\telefon\telefon\bin\Debug\net5.0\telefon.dll
+C:\Users\harco\source\repos\telefon\telefon\bin\Debug\net5.0\ref\telefon.dll
+C:\Users\harco\source\repos\telefon\telefon\bin\Debug\net5.0\telefon.pdb
+C:\Users\harco\source\repos\telefon\telefon\obj\Debug\net5.0\telefon.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\telefon\telefon\obj\Debug\net5.0\telefon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\telefon\telefon\obj\Debug\net5.0\telefon.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\telefon\telefon\obj\Debug\net5.0\telefon.AssemblyInfo.cs
+C:\Users\harco\source\repos\telefon\telefon\obj\Debug\net5.0\telefon.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\telefon\telefon\obj\Debug\net5.0\telefon.dll
+C:\Users\harco\source\repos\telefon\telefon\obj\Debug\net5.0\ref\telefon.dll
+C:\Users\harco\source\repos\telefon\telefon\obj\Debug\net5.0\telefon.pdb
+C:\Users\harco\source\repos\telefon\telefon\obj\Debug\net5.0\telefon.genruntimeconfig.cache

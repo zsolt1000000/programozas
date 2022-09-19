@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\zene\zene\bin\Debug\net5.0\zene.exe
+C:\Users\harco\source\repos\zene\zene\bin\Debug\net5.0\zene.deps.json
+C:\Users\harco\source\repos\zene\zene\bin\Debug\net5.0\zene.runtimeconfig.json
+C:\Users\harco\source\repos\zene\zene\bin\Debug\net5.0\zene.runtimeconfig.dev.json
+C:\Users\harco\source\repos\zene\zene\bin\Debug\net5.0\zene.dll
+C:\Users\harco\source\repos\zene\zene\bin\Debug\net5.0\ref\zene.dll
+C:\Users\harco\source\repos\zene\zene\bin\Debug\net5.0\zene.pdb
+C:\Users\harco\source\repos\zene\zene\obj\Debug\net5.0\zene.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\zene\zene\obj\Debug\net5.0\zene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\zene\zene\obj\Debug\net5.0\zene.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\zene\zene\obj\Debug\net5.0\zene.AssemblyInfo.cs
+C:\Users\harco\source\repos\zene\zene\obj\Debug\net5.0\zene.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\zene\zene\obj\Debug\net5.0\zene.dll
+C:\Users\harco\source\repos\zene\zene\obj\Debug\net5.0\ref\zene.dll
+C:\Users\harco\source\repos\zene\zene\obj\Debug\net5.0\zene.pdb
+C:\Users\harco\source\repos\zene\zene\obj\Debug\net5.0\zene.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\bin\Debug\net5.0\2021.09.21.exe
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\bin\Debug\net5.0\2021.09.21.deps.json
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\bin\Debug\net5.0\2021.09.21.runtimeconfig.json
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\bin\Debug\net5.0\2021.09.21.runtimeconfig.dev.json
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\bin\Debug\net5.0\2021.09.21.dll
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\bin\Debug\net5.0\ref\2021.09.21.dll
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\bin\Debug\net5.0\2021.09.21.pdb
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\obj\Debug\net5.0\2021.09.21.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\obj\Debug\net5.0\2021.09.21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\obj\Debug\net5.0\2021.09.21.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\obj\Debug\net5.0\2021.09.21.AssemblyInfo.cs
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\obj\Debug\net5.0\2021.09.21.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\obj\Debug\net5.0\2021.09.21.dll
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\obj\Debug\net5.0\ref\2021.09.21.dll
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\obj\Debug\net5.0\2021.09.21.pdb
+C:\Users\harco\source\repos\2021.09.21\2021.09.21\obj\Debug\net5.0\2021.09.21.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\helyjegy\helyjegy\bin\Debug\net5.0\helyjegy.exe
+C:\Users\harco\source\repos\helyjegy\helyjegy\bin\Debug\net5.0\helyjegy.deps.json
+C:\Users\harco\source\repos\helyjegy\helyjegy\bin\Debug\net5.0\helyjegy.runtimeconfig.json
+C:\Users\harco\source\repos\helyjegy\helyjegy\bin\Debug\net5.0\helyjegy.runtimeconfig.dev.json
+C:\Users\harco\source\repos\helyjegy\helyjegy\bin\Debug\net5.0\helyjegy.dll
+C:\Users\harco\source\repos\helyjegy\helyjegy\bin\Debug\net5.0\ref\helyjegy.dll
+C:\Users\harco\source\repos\helyjegy\helyjegy\bin\Debug\net5.0\helyjegy.pdb
+C:\Users\harco\source\repos\helyjegy\helyjegy\obj\Debug\net5.0\helyjegy.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\helyjegy\helyjegy\obj\Debug\net5.0\helyjegy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\helyjegy\helyjegy\obj\Debug\net5.0\helyjegy.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\helyjegy\helyjegy\obj\Debug\net5.0\helyjegy.AssemblyInfo.cs
+C:\Users\harco\source\repos\helyjegy\helyjegy\obj\Debug\net5.0\helyjegy.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\helyjegy\helyjegy\obj\Debug\net5.0\helyjegy.dll
+C:\Users\harco\source\repos\helyjegy\helyjegy\obj\Debug\net5.0\ref\helyjegy.dll
+C:\Users\harco\source\repos\helyjegy\helyjegy\obj\Debug\net5.0\helyjegy.pdb
+C:\Users\harco\source\repos\helyjegy\helyjegy\obj\Debug\net5.0\helyjegy.genruntimeconfig.cache

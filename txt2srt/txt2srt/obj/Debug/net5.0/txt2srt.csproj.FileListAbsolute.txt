@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\txt2srt\txt2srt\bin\Debug\net5.0\txt2srt.exe
+C:\Users\harco\source\repos\txt2srt\txt2srt\bin\Debug\net5.0\txt2srt.deps.json
+C:\Users\harco\source\repos\txt2srt\txt2srt\bin\Debug\net5.0\txt2srt.runtimeconfig.json
+C:\Users\harco\source\repos\txt2srt\txt2srt\bin\Debug\net5.0\txt2srt.runtimeconfig.dev.json
+C:\Users\harco\source\repos\txt2srt\txt2srt\bin\Debug\net5.0\txt2srt.dll
+C:\Users\harco\source\repos\txt2srt\txt2srt\bin\Debug\net5.0\ref\txt2srt.dll
+C:\Users\harco\source\repos\txt2srt\txt2srt\bin\Debug\net5.0\txt2srt.pdb
+C:\Users\harco\source\repos\txt2srt\txt2srt\obj\Debug\net5.0\txt2srt.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\txt2srt\txt2srt\obj\Debug\net5.0\txt2srt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\txt2srt\txt2srt\obj\Debug\net5.0\txt2srt.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\txt2srt\txt2srt\obj\Debug\net5.0\txt2srt.AssemblyInfo.cs
+C:\Users\harco\source\repos\txt2srt\txt2srt\obj\Debug\net5.0\txt2srt.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\txt2srt\txt2srt\obj\Debug\net5.0\txt2srt.dll
+C:\Users\harco\source\repos\txt2srt\txt2srt\obj\Debug\net5.0\ref\txt2srt.dll
+C:\Users\harco\source\repos\txt2srt\txt2srt\obj\Debug\net5.0\txt2srt.pdb
+C:\Users\harco\source\repos\txt2srt\txt2srt\obj\Debug\net5.0\txt2srt.genruntimeconfig.cache

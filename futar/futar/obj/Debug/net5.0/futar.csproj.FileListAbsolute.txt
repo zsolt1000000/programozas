@@ -1,0 +1,5 @@
+C:\Users\harco\source\repos\futar\futar\obj\Debug\net5.0\futar.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\futar\futar\obj\Debug\net5.0\futar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\futar\futar\obj\Debug\net5.0\futar.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\futar\futar\obj\Debug\net5.0\futar.AssemblyInfo.cs
+C:\Users\harco\source\repos\futar\futar\obj\Debug\net5.0\futar.csproj.CoreCompileInputs.cache

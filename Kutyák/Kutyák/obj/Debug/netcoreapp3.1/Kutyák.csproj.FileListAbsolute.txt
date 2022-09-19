@@ -1,0 +1,13 @@
+C:\Users\harco\source\repos\Kutyák\Kutyák\bin\Debug\netcoreapp3.1\Kutyák.exe
+C:\Users\harco\source\repos\Kutyák\Kutyák\bin\Debug\netcoreapp3.1\Kutyák.deps.json
+C:\Users\harco\source\repos\Kutyák\Kutyák\bin\Debug\netcoreapp3.1\Kutyák.runtimeconfig.json
+C:\Users\harco\source\repos\Kutyák\Kutyák\bin\Debug\netcoreapp3.1\Kutyák.runtimeconfig.dev.json
+C:\Users\harco\source\repos\Kutyák\Kutyák\bin\Debug\netcoreapp3.1\Kutyák.dll
+C:\Users\harco\source\repos\Kutyák\Kutyák\bin\Debug\netcoreapp3.1\Kutyák.pdb
+C:\Users\harco\source\repos\Kutyák\Kutyák\obj\Debug\netcoreapp3.1\Kutyák.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\Kutyák\Kutyák\obj\Debug\netcoreapp3.1\Kutyák.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\Kutyák\Kutyák\obj\Debug\netcoreapp3.1\Kutyák.AssemblyInfo.cs
+C:\Users\harco\source\repos\Kutyák\Kutyák\obj\Debug\netcoreapp3.1\Kutyák.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\Kutyák\Kutyák\obj\Debug\netcoreapp3.1\Kutyák.dll
+C:\Users\harco\source\repos\Kutyák\Kutyák\obj\Debug\netcoreapp3.1\Kutyák.pdb
+C:\Users\harco\source\repos\Kutyák\Kutyák\obj\Debug\netcoreapp3.1\Kutyák.genruntimeconfig.cache

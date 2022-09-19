@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\NASA\NASA\bin\Debug\net5.0\NASA.exe
+C:\Users\harco\source\repos\NASA\NASA\bin\Debug\net5.0\NASA.deps.json
+C:\Users\harco\source\repos\NASA\NASA\bin\Debug\net5.0\NASA.runtimeconfig.json
+C:\Users\harco\source\repos\NASA\NASA\bin\Debug\net5.0\NASA.runtimeconfig.dev.json
+C:\Users\harco\source\repos\NASA\NASA\bin\Debug\net5.0\NASA.dll
+C:\Users\harco\source\repos\NASA\NASA\bin\Debug\net5.0\ref\NASA.dll
+C:\Users\harco\source\repos\NASA\NASA\bin\Debug\net5.0\NASA.pdb
+C:\Users\harco\source\repos\NASA\NASA\obj\Debug\net5.0\NASA.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\NASA\NASA\obj\Debug\net5.0\NASA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\NASA\NASA\obj\Debug\net5.0\NASA.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\NASA\NASA\obj\Debug\net5.0\NASA.AssemblyInfo.cs
+C:\Users\harco\source\repos\NASA\NASA\obj\Debug\net5.0\NASA.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\NASA\NASA\obj\Debug\net5.0\NASA.dll
+C:\Users\harco\source\repos\NASA\NASA\obj\Debug\net5.0\ref\NASA.dll
+C:\Users\harco\source\repos\NASA\NASA\obj\Debug\net5.0\NASA.pdb
+C:\Users\harco\source\repos\NASA\NASA\obj\Debug\net5.0\NASA.genruntimeconfig.cache

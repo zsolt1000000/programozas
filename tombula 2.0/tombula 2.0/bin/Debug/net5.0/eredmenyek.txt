@@ -1,0 +1,53 @@
+toll - lime - 92
+toll - magenta - 19
+toll - piros - 4
+toll - zöld - 85
+toll - lime - 88
+toll - zöld - 59
+toll - fekete - 6
+toll - magenta - 100
+toll - kék - 8
+toll - magenta - 77
+táska - piros - 61
+táska - piros - 48
+táska - piros - 86
+táska - lime - 67
+táska - kék - 98
+bögre - szürke - 36
+bögre - lime - 78
+bögre - zöld - 75
+bögre - sárga - 64
+bögre - lime - 21
+bögre - magenta - 92
+bögre - kék - 3
+bögre - magenta - 27
+bögre - piros - 51
+bögre - kék - 57
+pendrive - lime - 25
+pendrive - szürke - 44
+tv - sárga - 26
+1 kg alma - fekete - 64
+1 kg alma - fekete - 38
+1 kg alma - piros - 12
+1 kg alma - lime - 89
+10000 Ft könyvutalvány - magenta - 58
+körzőkészlet - szürke - 53
+1 csomag papírzsepkendő (Zewa) - sárga - 14
+1 csomag papírzsepkendő (Zewa) - lime - 1
+1 csomag papírzsepkendő (Szilvia) - sárga - 65
+1 csomag papírzsepkendő (Szilvia) - zöld - 1
+1 csomag papírzsepkendő (Szilvia) - piros - 5
+1 csomag papírzsepkendő (Szilvia) - lime - 2
+1 csomag papírzsepkendő (Szilvia) - kék - 58
+Kulcstartó - piros - 82
+Kulcstartó - piros - 59
+Kulcstartó - lime - 29
+Kulcstartó - magenta - 60
+Kulcstartó - magenta - 48
+Kulcstartó - magenta - 41
+Kulcstartó - fekete - 30
+Kulcstartó - zöld - 41
+Kulcstartó - szürke - 96
+Kulcstartó - fekete - 23
+Kulcstartó - szürke - 99
+

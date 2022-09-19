@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\futar2\futar2\bin\Debug\net5.0\futar2.exe
+C:\Users\harco\source\repos\futar2\futar2\bin\Debug\net5.0\futar2.deps.json
+C:\Users\harco\source\repos\futar2\futar2\bin\Debug\net5.0\futar2.runtimeconfig.json
+C:\Users\harco\source\repos\futar2\futar2\bin\Debug\net5.0\futar2.runtimeconfig.dev.json
+C:\Users\harco\source\repos\futar2\futar2\bin\Debug\net5.0\futar2.dll
+C:\Users\harco\source\repos\futar2\futar2\bin\Debug\net5.0\ref\futar2.dll
+C:\Users\harco\source\repos\futar2\futar2\bin\Debug\net5.0\futar2.pdb
+C:\Users\harco\source\repos\futar2\futar2\obj\Debug\net5.0\futar2.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\futar2\futar2\obj\Debug\net5.0\futar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\futar2\futar2\obj\Debug\net5.0\futar2.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\futar2\futar2\obj\Debug\net5.0\futar2.AssemblyInfo.cs
+C:\Users\harco\source\repos\futar2\futar2\obj\Debug\net5.0\futar2.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\futar2\futar2\obj\Debug\net5.0\futar2.dll
+C:\Users\harco\source\repos\futar2\futar2\obj\Debug\net5.0\ref\futar2.dll
+C:\Users\harco\source\repos\futar2\futar2\obj\Debug\net5.0\futar2.pdb
+C:\Users\harco\source\repos\futar2\futar2\obj\Debug\net5.0\futar2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\cbradio\cbradio\bin\Debug\net5.0\cbradio.exe
+C:\Users\harco\source\repos\cbradio\cbradio\bin\Debug\net5.0\cbradio.deps.json
+C:\Users\harco\source\repos\cbradio\cbradio\bin\Debug\net5.0\cbradio.runtimeconfig.json
+C:\Users\harco\source\repos\cbradio\cbradio\bin\Debug\net5.0\cbradio.runtimeconfig.dev.json
+C:\Users\harco\source\repos\cbradio\cbradio\bin\Debug\net5.0\cbradio.dll
+C:\Users\harco\source\repos\cbradio\cbradio\bin\Debug\net5.0\ref\cbradio.dll
+C:\Users\harco\source\repos\cbradio\cbradio\bin\Debug\net5.0\cbradio.pdb
+C:\Users\harco\source\repos\cbradio\cbradio\obj\Debug\net5.0\cbradio.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\cbradio\cbradio\obj\Debug\net5.0\cbradio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\cbradio\cbradio\obj\Debug\net5.0\cbradio.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\cbradio\cbradio\obj\Debug\net5.0\cbradio.AssemblyInfo.cs
+C:\Users\harco\source\repos\cbradio\cbradio\obj\Debug\net5.0\cbradio.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\cbradio\cbradio\obj\Debug\net5.0\cbradio.dll
+C:\Users\harco\source\repos\cbradio\cbradio\obj\Debug\net5.0\ref\cbradio.dll
+C:\Users\harco\source\repos\cbradio\cbradio\obj\Debug\net5.0\cbradio.pdb
+C:\Users\harco\source\repos\cbradio\cbradio\obj\Debug\net5.0\cbradio.genruntimeconfig.cache

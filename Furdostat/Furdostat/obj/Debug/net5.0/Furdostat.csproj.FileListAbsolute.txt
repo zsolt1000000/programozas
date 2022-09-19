@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\Furdostat\Furdostat\bin\Debug\net5.0\Furdostat.exe
+C:\Users\harco\source\repos\Furdostat\Furdostat\bin\Debug\net5.0\Furdostat.deps.json
+C:\Users\harco\source\repos\Furdostat\Furdostat\bin\Debug\net5.0\Furdostat.runtimeconfig.json
+C:\Users\harco\source\repos\Furdostat\Furdostat\bin\Debug\net5.0\Furdostat.runtimeconfig.dev.json
+C:\Users\harco\source\repos\Furdostat\Furdostat\bin\Debug\net5.0\Furdostat.dll
+C:\Users\harco\source\repos\Furdostat\Furdostat\bin\Debug\net5.0\ref\Furdostat.dll
+C:\Users\harco\source\repos\Furdostat\Furdostat\bin\Debug\net5.0\Furdostat.pdb
+C:\Users\harco\source\repos\Furdostat\Furdostat\obj\Debug\net5.0\Furdostat.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\Furdostat\Furdostat\obj\Debug\net5.0\Furdostat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\Furdostat\Furdostat\obj\Debug\net5.0\Furdostat.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\Furdostat\Furdostat\obj\Debug\net5.0\Furdostat.AssemblyInfo.cs
+C:\Users\harco\source\repos\Furdostat\Furdostat\obj\Debug\net5.0\Furdostat.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\Furdostat\Furdostat\obj\Debug\net5.0\Furdostat.dll
+C:\Users\harco\source\repos\Furdostat\Furdostat\obj\Debug\net5.0\ref\Furdostat.dll
+C:\Users\harco\source\repos\Furdostat\Furdostat\obj\Debug\net5.0\Furdostat.pdb
+C:\Users\harco\source\repos\Furdostat\Furdostat\obj\Debug\net5.0\Furdostat.genruntimeconfig.cache

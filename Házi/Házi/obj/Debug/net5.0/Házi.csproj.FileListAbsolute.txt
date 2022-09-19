@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\Házi\Házi\obj\Debug\net5.0\Házi.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\Házi\Házi\obj\Debug\net5.0\Házi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\Házi\Házi\obj\Debug\net5.0\Házi.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\Házi\Házi\obj\Debug\net5.0\Házi.AssemblyInfo.cs
+C:\Users\harco\source\repos\Házi\Házi\obj\Debug\net5.0\Házi.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\Házi\Házi\bin\Debug\net5.0\Házi.exe
+C:\Users\harco\source\repos\Házi\Házi\bin\Debug\net5.0\Házi.deps.json
+C:\Users\harco\source\repos\Házi\Házi\bin\Debug\net5.0\Házi.runtimeconfig.json
+C:\Users\harco\source\repos\Házi\Házi\bin\Debug\net5.0\Házi.runtimeconfig.dev.json
+C:\Users\harco\source\repos\Házi\Házi\bin\Debug\net5.0\Házi.dll
+C:\Users\harco\source\repos\Házi\Házi\bin\Debug\net5.0\ref\Házi.dll
+C:\Users\harco\source\repos\Házi\Házi\bin\Debug\net5.0\Házi.pdb
+C:\Users\harco\source\repos\Házi\Házi\obj\Debug\net5.0\Házi.dll
+C:\Users\harco\source\repos\Házi\Házi\obj\Debug\net5.0\ref\Házi.dll
+C:\Users\harco\source\repos\Házi\Házi\obj\Debug\net5.0\Házi.pdb
+C:\Users\harco\source\repos\Házi\Házi\obj\Debug\net5.0\Házi.genruntimeconfig.cache

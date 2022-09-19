@@ -1,0 +1,16 @@
+C:\Users\harco\source\repos\footgolf\footgolf\bin\Debug\net5.0\footgolf.exe
+C:\Users\harco\source\repos\footgolf\footgolf\bin\Debug\net5.0\footgolf.deps.json
+C:\Users\harco\source\repos\footgolf\footgolf\bin\Debug\net5.0\footgolf.runtimeconfig.json
+C:\Users\harco\source\repos\footgolf\footgolf\bin\Debug\net5.0\footgolf.runtimeconfig.dev.json
+C:\Users\harco\source\repos\footgolf\footgolf\bin\Debug\net5.0\footgolf.dll
+C:\Users\harco\source\repos\footgolf\footgolf\bin\Debug\net5.0\ref\footgolf.dll
+C:\Users\harco\source\repos\footgolf\footgolf\bin\Debug\net5.0\footgolf.pdb
+C:\Users\harco\source\repos\footgolf\footgolf\obj\Debug\net5.0\footgolf.csprojAssemblyReference.cache
+C:\Users\harco\source\repos\footgolf\footgolf\obj\Debug\net5.0\footgolf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harco\source\repos\footgolf\footgolf\obj\Debug\net5.0\footgolf.AssemblyInfoInputs.cache
+C:\Users\harco\source\repos\footgolf\footgolf\obj\Debug\net5.0\footgolf.AssemblyInfo.cs
+C:\Users\harco\source\repos\footgolf\footgolf\obj\Debug\net5.0\footgolf.csproj.CoreCompileInputs.cache
+C:\Users\harco\source\repos\footgolf\footgolf\obj\Debug\net5.0\footgolf.dll
+C:\Users\harco\source\repos\footgolf\footgolf\obj\Debug\net5.0\ref\footgolf.dll
+C:\Users\harco\source\repos\footgolf\footgolf\obj\Debug\net5.0\footgolf.pdb
+C:\Users\harco\source\repos\footgolf\footgolf\obj\Debug\net5.0\footgolf.genruntimeconfig.cache
